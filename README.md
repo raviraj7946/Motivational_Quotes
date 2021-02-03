@@ -1,1 +1,2 @@
-# quote-generator
+# Motivational_quotes
+
